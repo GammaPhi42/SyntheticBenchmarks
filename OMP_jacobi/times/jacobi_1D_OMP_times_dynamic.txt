@@ -1,0 +1,25 @@
+data[400]: 1366.611240 
+data[800]: 142.298734 
+data[1200]: 5.074897 
+data[1600]: 0.058852 
+Data size : 4000  , #iterations : 200000 , time : 1.042615 sec
+data[400]: 1366.611240 
+data[800]: 142.298734 
+data[1200]: 5.074897 
+data[1600]: 0.058852 
+Data size : 4000  , #iterations : 200000 , time : 0.839959 sec
+data[400]: 1366.611240 
+data[800]: 142.298734 
+data[1200]: 5.074897 
+data[1600]: 0.058852 
+Data size : 4000  , #iterations : 200000 , time : 1.008583 sec
+data[400]: 1366.611240 
+data[800]: 142.298734 
+data[1200]: 5.074897 
+data[1600]: 0.058852 
+Data size : 4000  , #iterations : 200000 , time : 1.023202 sec
+data[400]: 1366.611240 
+data[800]: 142.298734 
+data[1200]: 5.074897 
+data[1600]: 0.058852 
+Data size : 4000  , #iterations : 200000 , time : 0.963466 sec

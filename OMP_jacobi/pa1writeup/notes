@@ -1,0 +1,5 @@
+something interesting,
+	parallelizing the most contiguous loop (inner loop) results in slower code than parallelizing the outer loop, where input indicies are multiplied by N before the are evaluated, in essence parallelizing the outer loop may result in more cache misses, but because of the less fork/join overhead the code is ~3x faster
+
+static schedule is faster than guided/dynamic on jacobi 1d
+	regular application
